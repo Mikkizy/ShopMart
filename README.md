@@ -1,5 +1,5 @@
 # Table of content
-1. [RoFFu](#roffu)
+1. [ShopMart](#shopmart)
 2. [Demo](#demo)
 3. [Want to try it?](#want-to-try-it)
 4. [Screenshots](#screenshots)
@@ -8,9 +8,9 @@
 7. [You liked this?](#you-like-what-iam-doing)
 
 
-# 👟RoFFu
+# 👟ShopMart
 
-RoFFu is an online store specialized in sports shoes & Sneakers of many famous companies like Nike & Adidas, with a modern UI & beautiful animations like adding products to cart, bookmarking and change the sizes 🤩🔥
+ShopMart is an online store specialized in sports shoes & Sneakers of many famous companies like Nike & Adidas, with a modern UI & beautiful animations like adding products to cart, bookmarking and change the sizes 🤩🔥
 
 
 # 🤳🏾Demo
@@ -56,17 +56,11 @@ You can download the demo from [here](https://github.com/mustfaibra/RoFFu/blob/m
 
 # 🔗Do you Want more?
 
-Feel free to connect or to follow me here 👇🏾
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/mustafa-ibrahim-58b918206/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mustfaibra)
+Feel free to connect or to follow me here.
 
 Also, don't forget to ⭐ this repository 😁
 
 
 # 😍You like what Iam doing?
 
-How about buying me a coffee so that I keep doing it 😁👇🏾
-
-[☕ Buy me a coffee](https://www.buymeacoffee.com/mustfaibra)
+Then connect with me.
